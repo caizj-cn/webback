@@ -1,0 +1,8 @@
+{
+  "engine": "cocos-creator-js",
+  "packages": "packages",
+  "name": "web_back",
+  "id": "e003a585-8ffd-4fa6-b5f0-94dcb6077438",
+  "version": "2.3.3",
+  "isNew": false
+}
